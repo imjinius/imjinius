@@ -15,6 +15,12 @@
   
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">  
   
+  
+How to reach me
+  
+ <a href="iwishyouhappy50@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+ <a href="gpwlsdlsms50@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+  
  <br><br>
  👩‍💻 GitHub stats
  
@@ -25,4 +31,6 @@
   
 [![Solved.ac
 Prifile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahj1028)](https://solved.ac/hahj1028)
+  
+  
 </div>
