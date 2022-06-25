@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=I'm%20Jin😎ius&fontSize=40)
 <div align="center">
-   
+<br><br>   
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimjinius&count_bg=%231D9E4F&title_bg=%2353CC93&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
