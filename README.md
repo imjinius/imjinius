@@ -27,10 +27,7 @@ How to reach me
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjinius&show_icons=true&theme=dracula)
  <br><br>
-🧸 BaekJoon
-  
-[![Solved.ac
-Prifile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahj1028)](https://solved.ac/hahj1028)
+
   
   
 </div>
